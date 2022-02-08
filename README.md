@@ -8,6 +8,13 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilliamANadeeshani&count_private=true&show_icons=true&theme=nightowl)
 
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" marging-right= "128px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamANadeeshani&langs_count=8&count_private=true&show_icons=true&layout=compact&theme=nightowl" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WilliamANadeeshani&count_private=true&show_icons=true&theme=nightowl" />
+</a> -->
+
 
 
 
