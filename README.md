@@ -1,4 +1,15 @@
-### Hi there 👋
+# 👋  Hello, folks. I am William A Nadeeshani
+
+  #### :computer: Software Developer at WSO2 
+  #### :book:  Undergraduate Student - MSc. in informatics, Technische Universität München
+  #### :mortar_board:  Graduate Student - BSc. in Computer Science & Engineering, University of Moratuwa
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamANadeeshani&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilliamANadeeshani&show_icons=true&theme=radical)
+
+
+
 
 <!--
 **WilliamANadeeshani/WilliamANadeeshani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
