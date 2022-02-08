@@ -1,8 +1,8 @@
 # 👋  Hello, folks. I'm Nadeeshani
 
-  #### :computer: Software Developer at WSO2 
-  #### :book:  Undergraduate Student - MSc. in informatics, Technische Universität München
-  #### :mortar_board:  Graduate Student - BSc. in Computer Science & Engineering, University of Moratuwa
+  #### :computer: Software Engineer at WSO2 
+  #### :book:  Learning at MSc. in informatics, Technische Universität München
+  #### :mortar_board:  Graduated from BSc. in Computer Science & Engineering, University of Moratuwa
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamANadeeshani&langs_count=8&count_private=true&show_icons=true&layout=compact&theme=nightowl)
 
