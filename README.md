@@ -6,14 +6,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamANadeeshani&langs_count=8&count_private=true&show_icons=true&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" marging-right= "128px" src="https://github-readme-stats.vercel.app/api?username=WilliamANadeeshani&count_private=true&show_icons=true&theme=nightowl" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=WilliamANadeeshani&count_private=true&theme=dark&theme=nightowl" />
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilliamANadeeshani&count_private=true&show_icons=true&theme=nightowl)
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WilliamANadeeshani&count_private=true&theme=dark&theme=nightowl)](https://git.io/streak-stats)
 
 
 <!--
