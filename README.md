@@ -4,9 +4,9 @@
   #### :book:  Undergraduate Student - MSc. in informatics, Technische Universität München
   #### :mortar_board:  Graduate Student - BSc. in Computer Science & Engineering, University of Moratuwa
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamANadeeshani&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamANadeeshani&langs_count=8&count_private=true&show_icons=true&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilliamANadeeshani&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilliamANadeeshani&count_private=true&show_icons=true&theme=nightowl)
 
 
 
