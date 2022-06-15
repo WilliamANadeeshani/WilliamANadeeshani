@@ -1,7 +1,7 @@
 # 👋  Hello, folks. I'm Nadeeshani
 
-  #### :book:  Masters student in informatics, Technische Universität München
-  #### :computer: Working Student - Software Developer at wealthpilot GmbH, Munich 
+  #### :mortar_board:  Masters student in informatics, Technische Universität München
+  #### :computer: Software Developer(Working Student) at wealthpilot GmbH, Munich 
   #### :mortar_board:  Graduated from BSc. in Computer Science & Engineering, University of Moratuwa
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamANadeeshani&langs_count=8&count_private=true&show_icons=true&layout=compact&theme=nightowl)
