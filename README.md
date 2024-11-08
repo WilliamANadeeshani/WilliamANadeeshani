@@ -1,6 +1,6 @@
 # 👋  Hello, folks. I'm Nadeeshani
 
-  #### :mortar_board:  Masters student in informatics, Technische Universität München
+  #### :mortar_board:  Master student in informatics, Technische Universität München
   #### :mortar_board:  Graduated from BSc. in Computer Science & Engineering, University of Moratuwa
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamANadeeshani&langs_count=8&count_private=true&show_icons=true&layout=compact&theme=nightowl)
